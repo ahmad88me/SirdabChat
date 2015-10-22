@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LoginPage.qml</file>
+        <file>ChatPage.qml</file>
+        <file>Network.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>underground.jpg</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>digital-7.ttf</file>
+        <file>DS-DIGI.TTF</file>
+        <file>DS-DIGIB.TTF</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>gate.mp3</file>
+        <file>typewriter-key.wav</file>
+    </qresource>
+</RCC>
